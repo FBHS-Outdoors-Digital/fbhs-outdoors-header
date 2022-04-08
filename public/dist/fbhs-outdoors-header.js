@@ -6,8 +6,8 @@
     elementName: 'fbhs-nav',
     mode: 'closed',
     utmCampaign: 'fbhs-header',
-		domains: {
-			'thermatru.com': {
+    domains: {
+      'thermatru.com': {
         activeBackgroundColor: '#4b4c4e',
         activeLogoColor: '#fff',
         containerWidth: '1190px',
@@ -21,7 +21,7 @@
         containerWidth: '1220px',
         containerBackground: '#eee',
         containerPadding: '0',
-        target: 'body'
+        target: '.wrap'
       },
       'cladding.fiberondecking.com': {
         activeBackgroundColor: '#fff',
