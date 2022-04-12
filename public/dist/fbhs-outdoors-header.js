@@ -13,7 +13,23 @@
         containerWidth: '1190px',
         containerBackground: '#eee',
         containerPadding: '0',
-        target: '.main'
+        target: '#fbhs_os_header'
+      },
+      'tt-stage.thermatrudev.com': {
+        activeBackgroundColor: '#4b4c4e',
+        activeLogoColor: '#fff',
+        containerWidth: '1190px',
+        containerBackground: '#eee',
+        containerPadding: '0',
+        target: '#fbhs_os_header'
+      },
+      'qa.thermatru.com': {
+        activeBackgroundColor: '#4b4c4e',
+        activeLogoColor: '#fff',
+        containerWidth: '1190px',
+        containerBackground: '#eee',
+        containerPadding: '0',
+        target: '#fbhs_os_header'
       },
       'fiberondecking.com': {
         activeBackgroundColor: '#fff',
