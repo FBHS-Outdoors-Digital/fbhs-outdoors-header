@@ -85,7 +85,7 @@
         containerWidth: '1230px',
         containerBackground: '#fff',
         containerPadding: '0',
-        target: 'sfContentBlock'
+        target: '.sfContentBlock'
       },
       'larson-parts-dev.myshopify.com': {
         activeBackgroundColor: '#aa202d',
