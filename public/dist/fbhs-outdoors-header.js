@@ -39,6 +39,14 @@
         containerPadding: '0',
         target: '.wrap'
       },
+      'fiberongenesis.com': {
+        activeBackgroundColor: '#fff',
+        activeLogoColor: '#808285',
+        containerWidth: '1220px',
+        containerBackground: '#eee',
+        containerPadding: '0',
+        target: '.wrap'
+      },
       'cladding.fiberondecking.com': {
         activeBackgroundColor: '#fff',
         activeLogoColor: '#808285',
@@ -135,7 +143,7 @@
         containerPadding: '0',
         target: 'body'
       },
-		},
+    },
     domainGroups: {
       'thermatru': [
         'thermatru.com',
@@ -144,6 +152,7 @@
       ],
       'fiberon': [
         'fiberondecking.com',
+	'fiberongenesis.com',
         'fiberoncladding.com',
         'store.fiberondecking.com',
         'cladding.fiberondecking.com',
