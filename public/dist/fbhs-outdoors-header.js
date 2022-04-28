@@ -103,6 +103,22 @@
         containerPadding: '0',
         target: 'body'
       },
+      'blog.larsondoors.com': {
+        activeBackgroundColor: '#fff',
+        activeLogoColor: '#808285',
+        containerWidth: '1300px',
+        containerBackground: '#eee',
+        containerPadding: '0',
+        target: '.FBHS-navbar-wrapper'
+      },
+      'landing.larsondoors.com': {
+        activeBackgroundColor: '#fff',
+        activeLogoColor: '#808285',
+        containerWidth: '1300px',
+        containerBackground: '#eee',
+        containerPadding: '0',
+        target: '.FBHS-navbar-wrapper'
+      },
       'solarinnovations.com': {
         activeBackgroundColor: '#fff',
         activeLogoColor: '#808285',
@@ -123,6 +139,7 @@
     domainGroups: {
       'thermatru': [
         'thermatru.com',
+	'tt-stage.thermatrudev.com',
         'store.thermatru.com'
       ],
       'fiberon': [
@@ -137,6 +154,8 @@
       ],
       'larson': [
         'larsondoors.com',
+	'blog.larsondoors.com',
+	'landing.larsondoors.com',
         'parts.larsondoors.com',
         'larson-parts-dev.myshopify.com'
       ],
