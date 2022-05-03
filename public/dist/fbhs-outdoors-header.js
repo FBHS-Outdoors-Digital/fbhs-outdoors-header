@@ -39,6 +39,14 @@
         containerPadding: '0',
         target: '#fbhs_os_header'
       },
+      'store.thermatru.com': {
+        activeBackgroundColor: '#fff',
+        activeLogoColor: '#808285',
+        containerWidth: '1410px',
+        containerBackground: '#eee',
+        containerPadding: '0',
+        target: 'body'
+      },
       'fiberondecking.com': {
         activeBackgroundColor: '#fff',
         activeLogoColor: '#808285',
