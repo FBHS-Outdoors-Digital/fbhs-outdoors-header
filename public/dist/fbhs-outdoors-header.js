@@ -15,6 +15,14 @@
         containerPadding: '0',
         target: '#fbhs_os_header'
       },
+      'dyd': {
+        activeBackgroundColor: '#4b4c4e',
+        activeLogoColor: '#fff',
+        containerWidth: 'calc(95% + 15px);',
+        containerBackground: '#eee',
+        containerPadding: '0',
+        target: '#fbhs_os_header'
+      },
       'tt-stage.thermatrudev.com': {
         activeBackgroundColor: '#4b4c4e',
         activeLogoColor: '#fff',
@@ -171,16 +179,28 @@
       'solarinnovations': [
         'solarinnovations.com'
       ]
+    },
+    exceptions: {
+      'dyd': document.querySelector('.dyd-partial')
     }
   };
 
   let navWrapper        = document.createElement(settings.elementName),
       shadowRoot        = navWrapper.attachShadow({mode: settings.mode}),
       domain            = location.hostname ? location.hostname.replace('www.','') : 'default',
-      domainSettings    = settings.domains[domain],
+      domainSettings    = RetriveDomainSettings(),
       targetElement     = document.querySelector(domainSettings.target),
       activeDomainGroup = RetrieveDomainGroup(settings.domainGroups),
       currentFBHSBar    = document.querySelector('.fbhs-header');
+
+  function RetriveDomainSettings() {
+    for (const [key, value] of Object.entries(settings.exceptions)) {
+      if (value) {
+        return settings.domains[key];
+      }
+    }
+    return settings.domains[domain];
+  }
 
   function RetrieveDomainGroup(domainGroups) {
     for (const [key] of Object.entries(domainGroups)) {
