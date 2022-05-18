@@ -111,7 +111,7 @@
         containerPadding: '0',
         target: '.sfContentBlock'
       },
-      'larson-parts-dev.myshopify.com': {
+      'larsondoors.myshopify.com': {
         activeBackgroundColor: '#aa202d',
         activeLogoColor: '#fff',
         containerWidth: '1145px',
