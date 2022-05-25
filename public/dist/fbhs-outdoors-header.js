@@ -144,8 +144,8 @@
         target: '.FBHS-navbar-wrapper'
       },
       'solarinnovations.com': {
-        activeBackgroundColor: '#418f43',
-        activeLogoColor: '#ffffff',
+        activeBackgroundColor: '#ffffff',
+        activeLogoColor: '#808285',
         containerWidth: '1410px',
         containerBackground: '#eee',
         containerPadding: '0',
