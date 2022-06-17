@@ -128,10 +128,10 @@
         target: 'body'
       },
       'partsacctest.larsondoors.com': {
-        activeBackgroundColor: '#aa202d',
-        activeLogoColor: '#fff',
+        activeBackgroundColor: '#fff',
+        activeLogoColor: '#808285',
         containerWidth: '1145px',
-        containerBackground: '#fff',
+        containerBackground: '#eee',
         containerPadding: '0',
         target: 'body'
       },
