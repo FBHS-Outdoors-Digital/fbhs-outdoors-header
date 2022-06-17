@@ -127,6 +127,14 @@
         containerPadding: '0',
         target: 'body'
       },
+      'partsacctest.larsondoors.com': {
+        activeBackgroundColor: '#aa202d',
+        activeLogoColor: '#fff',
+        containerWidth: '1145px',
+        containerBackground: '#fff',
+        containerPadding: '0',
+        target: 'body'
+      },
       'blog.larsondoors.com': {
         activeBackgroundColor: '#fff',
         activeLogoColor: '#808285',
@@ -182,7 +190,8 @@
 	'blog.larsondoors.com',
 	'landing.larsondoors.com',
         'parts.larsondoors.com',
-        'larson-parts-dev.myshopify.com'
+        'larson-parts-dev.myshopify.com',
+	'partsacctest.larsondoors.com'
       ],
       'solarinnovations': [
         'solarinnovations.com'
