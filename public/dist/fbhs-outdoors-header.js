@@ -47,6 +47,14 @@
         containerPadding: '0',
         target: 'body'
       },
+      'prefacedoors.com': {
+        activeBackgroundColor: '#fff',
+        activeLogoColor: '#808285',
+        containerWidth: '1520px',
+        containerBackground: '#f5f5f5',
+        containerPadding: '0',
+        target: 'body'
+      },
       'fiberondecking.com': {
         activeBackgroundColor: '#fff',
         activeLogoColor: '#808285',
@@ -172,7 +180,8 @@
       'thermatru': [
         'thermatru.com',
 	'tt-stage.thermatrudev.com',
-        'store.thermatru.com'
+        'store.thermatru.com',
+	'prefacedoors.com'
       ],
       'fiberon': [
         'fiberondecking.com',
