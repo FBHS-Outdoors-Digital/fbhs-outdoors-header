@@ -56,12 +56,12 @@
         target: 'body'
       },
       'fiberondecking.com': {
-        activeBackgroundColor: '#fff',
+        activeBackgroundColor: '#f5f5f5',
         activeLogoColor: '#808285',
-        containerWidth: '1220px',
-        containerBackground: '#eee',
+        containerWidth: '1340px',
+        containerBackground: '#fff',
         containerPadding: '0',
-        target: '.wrap'
+        target: 'body'
       },
       'fiberongenesis.com': {
         activeBackgroundColor: '#fff',
