@@ -208,7 +208,8 @@
 	'landing.larsondoors.com',
         'parts.larsondoors.com',
         'larson-parts-dev.myshopify.com',
-	'partsacctest.larsondoors.com'
+	'partsacctest.larsondoors.com',
+	'shop.larsondoors.com'
       ],
       'solarinnovations': [
         'solarinnovations.com'
