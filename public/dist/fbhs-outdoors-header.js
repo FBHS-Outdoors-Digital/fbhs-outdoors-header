@@ -127,6 +127,14 @@
         containerPadding: '0',
         target: 'body'
       },
+      'shop.larsondoors.com': {
+        activeBackgroundColor: '#aa202d',
+        activeLogoColor: '#fff',
+        containerWidth: '1145px',
+        containerBackground: '#fff',
+        containerPadding: '0',
+        target: 'body'
+      },
       'parts.larsondoors.com': {
         activeBackgroundColor: '#aa202d',
         activeLogoColor: '#fff',
