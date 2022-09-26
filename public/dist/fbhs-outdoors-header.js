@@ -183,6 +183,14 @@
         containerPadding: '0',
         target: 'body'
       },
+      'fbhssolarinnov.wpengine.com': {
+        activeBackgroundColor: '#ffffff',
+        activeLogoColor: '#808285',
+        containerWidth: '1410px',
+        containerBackground: '#eee',
+        containerPadding: '0',
+        target: 'body'
+      },
       'default': {
         activeBackgroundColor: '#fff',
         activeLogoColor: '#808285',
