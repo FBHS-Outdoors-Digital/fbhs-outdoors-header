@@ -228,7 +228,8 @@
 	'shop.larsondoors.com'
       ],
       'solarinnovations': [
-        'solarinnovations.com'
+        'solarinnovations.com',
+	'fbhssolarinnov.wpengine.com'
       ]
     },
     exceptions: {
