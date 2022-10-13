@@ -31,6 +31,14 @@
         containerPadding: '0',
         target: '#fbhs_os_header'
       },
+	    'thermatrustg.myshopify.com': {
+        activeBackgroundColor: '#4b4c4e',
+        activeLogoColor: '#fff',
+        containerWidth: '1190px',
+        containerBackground: '#eee',
+        containerPadding: '0',
+        target: '#fbhs_os_header'
+      },
       'qa.thermatru.com': {
         activeBackgroundColor: '#4b4c4e',
         activeLogoColor: '#fff',
@@ -205,7 +213,8 @@
         'thermatru.com',
 	'tt-stage.thermatrudev.com',
         'store.thermatru.com',
-	'prefacedoors.com'
+	'prefacedoors.com',
+	      'thermatrustg.myshopify.com'
       ],
       'fiberon': [
         'fiberondecking.com',
