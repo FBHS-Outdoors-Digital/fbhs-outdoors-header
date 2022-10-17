@@ -37,7 +37,7 @@
         containerWidth: '1190px',
         containerBackground: '#eee',
         containerPadding: '0',
-        target: '#fbhs_os_header'
+        target: 'bodyr'
       },
       'qa.thermatru.com': {
         activeBackgroundColor: '#4b4c4e',
