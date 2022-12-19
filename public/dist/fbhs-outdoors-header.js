@@ -80,18 +80,26 @@
         target: '.wrap'
       },
       'cladding.fiberondecking.com': {
-        activeBackgroundColor: '#fff',
+        activeBackgroundColor: '#f5f5f5',
         activeLogoColor: '#808285',
-        containerWidth: '1220px',
-        containerBackground: '#eee',
+        containerWidth: '1340px',
+        containerBackground: '#fff',
         containerPadding: '0',
         target: 'body'
       },
       'fiberoncladding.com': {
-        activeBackgroundColor: '#fff',
+        activeBackgroundColor: '#f5f5f5',
         activeLogoColor: '#808285',
-        containerWidth: '1220px',
-        containerBackground: '#eee',
+        containerWidth: '1340px',
+        containerBackground: '#fff',
+        containerPadding: '0',
+        target: 'body'
+      },
+      'fiberoncladding.myshopify.com': {
+        activeBackgroundColor: '#f5f5f5',
+        activeLogoColor: '#808285',
+        containerWidth: '1340px',
+        containerBackground: '#fff',
         containerPadding: '0',
         target: 'body'
       },
@@ -223,6 +231,7 @@
         'store.fiberondecking.com',
         'cladding.fiberondecking.com',
         'fiberonstg.myshopify.com',
+	'fiberoncladding.myshopify.com',
       ],
       'fypon': [
         'fypon.com',
