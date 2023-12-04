@@ -404,7 +404,7 @@
       width: 100%;
       max-width: 15em;
       border-radius: .2em;
-      padding: 1em 0;
+      padding: 2.25em 0 1em 0;
       overflow: hidden;
     }
 
