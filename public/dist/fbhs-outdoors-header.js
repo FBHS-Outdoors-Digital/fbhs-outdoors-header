@@ -119,14 +119,14 @@
         containerPadding: '0',
         target: 'body'
       },
-      'fypon.com': {
+      /*'fypon.com': {
         activeBackgroundColor: '#0079c1',
         activeLogoColor: '#fff',
         containerWidth: '1140px',
         containerBackground: '#fff',
         containerPadding: '0',
         target: 'body'
-      },
+      },*/
       'larsondoors.com': {
         activeBackgroundColor: '#aa202d',
         activeLogoColor: '#fff',
